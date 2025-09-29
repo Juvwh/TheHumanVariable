@@ -1,0 +1,20 @@
+﻿# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
