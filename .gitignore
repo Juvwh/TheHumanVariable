@@ -24,3 +24,6 @@ Build/
 Config/DefaultGame.ini
 
 Config/DefaultGame.ini
+
+*.FBX
+*.fbx
