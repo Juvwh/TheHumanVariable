@@ -18,3 +18,7 @@ Saved/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+Build/
+
+Config/DefaultGame.ini
